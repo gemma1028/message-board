@@ -5,10 +5,8 @@ class MessagesController < ApplicationController
     @messages = Message.all
     @message = Message.new
   end
-
   def edit
   end
-  
   def update
     if @message.update(message_params)
       # 保存に成功した場合はトップページへリダイレクト
@@ -18,12 +16,10 @@ class MessagesController < ApplicationController
       render 'edit'
     end
   end
-  
   def destroy
     @message.destroy
     redirect_to root_path, notice: 'メッセージを削除しました'
   end
-
   ## ここから追記
   def create
     @message = Message.new(message_params)
@@ -36,13 +32,11 @@ class MessagesController < ApplicationController
       render 'index'
     end
   end
-  
   private
   def message_params
     params.require(:message).permit(:name, :body)
   end
   ## ここまで
-  
   def set_message
     @message = Message.find(params[:id])
   end
