@@ -1,0 +1,30 @@
+[33mebf5cd5[m HEAD@{0}: commit: challenge2
+[33m4152e31[m HEAD@{1}: commit: Gemfile update for heroku
+[33mcfa7022[m HEAD@{2}: commit: create message model
+[33mdeb901b[m HEAD@{3}: checkout: moving from master to challenge2
+[33mdeb901b[m HEAD@{4}: commit: Gemfile update for heroku
+[33m5bb171a[m HEAD@{5}: commit: Gemfile update for heroku
+[33m26fd5b9[m HEAD@{6}: commit (merge): Implementation of the validation
+[33m3f46e00[m HEAD@{7}: checkout: moving from master to master
+[33m3f46e00[m HEAD@{8}: commit: first commit
+[33mbdb2c5a[m HEAD@{9}: checkout: moving from master to master
+[33mbdb2c5a[m HEAD@{10}: commit: first commit
+[33mc30e02d[m HEAD@{11}: reset: moving to HEAD^
+[33ma48f21e[m HEAD@{12}: commit: first commit
+[33mc30e02d[m HEAD@{13}: reset: moving to HEAD^
+[33m84bb93b[m HEAD@{14}: reset: moving to HEAD^
+[33ma3c6f36[m HEAD@{15}: reset: moving to HEAD^
+[33mefc43ac[m HEAD@{16}: reset: moving to HEAD^
+[33m2cd8217[m HEAD@{17}: checkout: moving from challenge1 to master
+[33m4a7dbda[m HEAD@{18}: checkout: moving from challenge1 to challenge1
+[33m4a7dbda[m HEAD@{19}: commit: first commit
+[33md3f9258[m HEAD@{20}: checkout: moving from challenge1 to challenge1
+[33md3f9258[m HEAD@{21}: commit: first commit
+[33m46f01ad[m HEAD@{22}: commit: using Bootstrap
+[33m2cd8217[m HEAD@{23}: checkout: moving from master to challenge1
+[33m2cd8217[m HEAD@{24}: commit: using Bootstrap
+[33mefc43ac[m HEAD@{25}: commit: create message model
+[33ma3c6f36[m HEAD@{26}: commit: first commit
+[33m84bb93b[m HEAD@{27}: commit: create message model
+[33mc30e02d[m HEAD@{28}: commit: create messages_controller
+[33m8895cce[m HEAD@{29}: commit (initial): first commit
